@@ -14,7 +14,8 @@ struct student new={
 
 
 int main() 
-{
+{	
+	printf("add line 1");
 	unsigned int a;
             a=new.id*250;
           while(a--)

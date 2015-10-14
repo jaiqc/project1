@@ -7,7 +7,7 @@ struct student
             
 };
 
-struct student new{
+struct student new={
 		
 		.id=0,
 };
