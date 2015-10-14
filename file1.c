@@ -16,6 +16,8 @@ struct student new={
 int main() 
 {
 	printf("First Line");
+	printf("Second Line");
+	printf("third Line");
 	unsigned int a;
             a=new.id*250;
           while(a--)
